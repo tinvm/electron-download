@@ -1,0 +1,23 @@
+{
+  "name": "live2d",
+  "version": "1.0.0",
+  "description": "Live2d Support Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://electron.atom.io",
+  "keywords": [
+    "Live2d",
+    "support"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.0.0",
+    "font-awesome": ""
+  }
+}
